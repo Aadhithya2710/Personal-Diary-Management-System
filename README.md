@@ -43,18 +43,18 @@ The **Personal Diary Management System** is a console-based C application that l
 ## 🖼️ Screenshots
 
 ### 🔹 Add Entry
-![Add Entry](screenshots/addding.png)
-![Add Entry](screenshots/addd2.png)
+![Add Entry](screenshots/adding.png)
+![Add Entry](screenshots/add2.png)
 
 ### 🔹 Edit Entry
-![View Entry](screenshots/editing2.png)
+![Edit Entry](screenshots/editing2.png)
 
 
 ### 🔹 Delete Entry
-![View Entry](screenshots/delete.png)
+![Delete Entry](screenshots/delete.png)
 
 ### 🔹 Exit 
-![View Entry](screenshots/exit.png)
+![Exit Entry](screenshots/exit.png)
 
 
 # 👨‍💻 Authors
