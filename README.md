@@ -57,12 +57,3 @@ The **Personal Diary Management System** is a console-based C application that l
 ![Exit Entry](screenshots/exit.png)
 
 
-# 👨‍💻 Authors
-- Aadhithya Balaji
-- Aditiya Vaibhv J
-- Balaji T
-- Harini A
-- Jerome Jestin A
-
-# 📄 License
-This project is licensed under the MIT License.
